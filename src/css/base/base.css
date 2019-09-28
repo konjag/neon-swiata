@@ -1,0 +1,36 @@
+body {
+  background-color: var(--color-background-primary);
+  color: var(--color-text-primary);
+  font-family: var(--font-family-primary);
+  font-weight: 500;
+}
+
+footer {
+  background-color: var(--color-background-secondary);
+  border: none; 
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--color-brand-primary);
+}
+
+hr {
+  &.small {
+    color: var(--color-brand-secondary);
+    max-width: 200px;
+    box-shadow: 0px 0px 10px 3px var(--color-brand-secondary);
+  }
+}
+
+.intro-header .page-heading h1 {
+  text-shadow: 0px 0px 20px color(var(--color-brand-primary) b(20%));
+}
+
+.text-muted {
+  color: var(--color-text-primary);
+}

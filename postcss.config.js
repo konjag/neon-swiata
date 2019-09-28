@@ -4,6 +4,9 @@ module.exports = {
     "postcss-preset-env": {
       browsers: "last 2 versions"
     },
-    autoprefixer: {}
+    autoprefixer: {},
+    "postcss-nested": {},
+    "postcss-css-variables": {},
+    "postcss-color-function": {}
   }
 };

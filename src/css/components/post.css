@@ -1,0 +1,33 @@
+.post-preview .post-meta,
+.post-heading .post-meta {
+  font-style: normal;
+  color: var(--color-brand-secondary);
+}
+
+.post-preview {
+  .post-entry {
+    font-family: var(--font-family-primary);
+  }
+
+  .post-read-more {
+    float: none;
+    margin-top: 10px;
+    display: inline-block;
+    color: var(--color-brand-secondary);
+
+    &:hover {
+      color: var(--color-brand-primary);
+    }
+  }
+}
+
+.post-meta {
+  i {
+    margin-right: 5px;
+
+    &:not(:first-child) {
+      margin-left: 15px;
+    }
+  }
+}
+
