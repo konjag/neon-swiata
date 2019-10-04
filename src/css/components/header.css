@@ -1,0 +1,30 @@
+.intro-header {
+  &__image {
+    margin-bottom: 50px;
+  }
+
+  .page-heading h1 {
+    text-shadow: 0px 0px 20px color(var(--color-brand-primary) b(20%));
+    margin-bottom: 30px;
+  }
+
+  .page-heading {
+    @media screen and (min-width: 768px) {
+      margin-top: 50px;
+      margin-bottom: 60px;
+    }
+  }
+
+  .post-heading {
+    h1 {
+      @media screen and (min-width: 768px) {
+        margin-bottom: 20px;
+      }
+    }
+  }
+}
+
+.navbar-toggle {
+  /* TODO: Temporary disable menu toggle until there is something to show in menu */
+  display: none;
+}

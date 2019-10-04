@@ -9,8 +9,9 @@
   --color-background-primary: var(--color-jaguar);
   --color-background-secondary: var(--color-valhalla);
   --color-brand-primary: var(--color-turquise);
-  --color-brand-secondary: color(var(--color-hollywood-cerise) w(15%));
+  --color-brand-secondary: color(var(--color-hollywood-cerise) w(10%));
   --color-text-primary: var(--color-east-side);
+  --color-text-hover: color(var(--color-brand-secondary) l(70%));
   
   --font-family-primary: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --font-family-secondary: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;

@@ -11,5 +11,9 @@
 
   &-custom .navbar-brand {
     color: var(--color-brand-secondary);
+
+    &:hover {
+      color: var(--color-text-hover);
+    }
   }
 }

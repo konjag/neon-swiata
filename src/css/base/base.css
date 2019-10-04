@@ -2,7 +2,8 @@ body {
   background-color: var(--color-background-primary);
   color: var(--color-text-primary);
   font-family: var(--font-family-primary);
-  font-weight: 500;
+  font-weight: 400;
+  line-height: 1.5;
 }
 
 footer {
@@ -27,8 +28,15 @@ hr {
   }
 }
 
-.intro-header .page-heading h1 {
-  text-shadow: 0px 0px 20px color(var(--color-brand-primary) b(20%));
+p {
+  a {
+    color: var(--color-brand-secondary);
+
+    &:hover {
+      color: var(--color-text-hover);
+      text-decoration: none;
+    }
+  }
 }
 
 .text-muted {
