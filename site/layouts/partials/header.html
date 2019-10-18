@@ -53,18 +53,28 @@
         <span class="img-desc" style="display: inline;"></span>
       </div>
     {{end}}
-    <div class="intro-header no-img">
+    <div class="intro-header no-img test">
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            {{ if .Site.Params.logoLarge }}
+              <a href="{{ "" | absLangURL }}">
+                  <img src="{{ .Site.Params.logoLarge }}" alt="{{ .Site.Title }}" class="intro-header__logo" />
+              </a>
+            {{ end }}
+            {{ if eq .Type "post" }}
+              <hr class="small">
+            {{ end }}
             {{ if .Params.image_post }}
               <img src="{{ .Params.image_post }}" alt="{{ .Title }}" class="intro-header__image" />
             {{ end }}
             <div class="{{ .Type }}-heading">
-              {{ if eq .Type "list" }}
-                <h1>{{ if .Data.Singular }}#{{ end }}{{ .Title }}</h1>
-              {{ else }}
-                <h1>{{ with $title }}{{.}}{{ else }}<br/>{{ end }}</h1>
+              {{ if not .IsHome }}
+                {{ if eq .Type "list" }}
+                  <h1>{{ if .Data.Singular }}#{{ end }}{{ .Title }}</h1>
+                {{ else }}
+                  <h1>{{ with $title }}{{.}}{{ else }}<br/>{{ end }}</h1>
+                {{ end }}
               {{ end }}
               {{ if ne .Type "post" }}
                 <hr class="small">

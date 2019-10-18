@@ -1,18 +1,19 @@
 .intro-header {
-  &__image {
+  &__logo {
+    max-width: 350px;
+    width: 100%;
     margin-bottom: 50px;
+  }
+
+  &__image {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    max-width: 250px;
   }
 
   .page-heading h1 {
     text-shadow: 0px 0px 20px color(var(--color-brand-primary) b(20%));
     margin-bottom: 30px;
-  }
-
-  .page-heading {
-    @media screen and (min-width: 768px) {
-      margin-top: 50px;
-      margin-bottom: 60px;
-    }
   }
 
   .post-heading {
@@ -21,6 +22,10 @@
         margin-bottom: 20px;
       }
     }
+  }
+
+  @media screen and (min-width: 768px) {
+    margin-top: 70px;
   }
 }
 

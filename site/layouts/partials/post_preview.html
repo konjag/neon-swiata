@@ -1,41 +1,46 @@
 <article class="post-preview">
-    <a href="{{ .Permalink }}">
-        {{ if .Params.image_preview }}
-        <img src="{{ .Params.image_preview }}" alt="{{ .Title }}" class="img-title" />
-        {{ end }}
-        {{ if .Params.video }}
-        <video loop autoplay muted playsinline class="img-title">
-            <source src="{{ .Params.video }}">
-        </video>
-        {{ end }}
-        <h2 class="post-title">{{ .Title }}</h2>
-        {{ if .Params.subtitle }}
-        <h3 class="post-subtitle">
-            {{ .Params.subtitle }}
-        </h3>
-        {{ end }}
-    </a>
-
-    <p class="post-meta">
-        {{ partial "post_meta.html" . }}
-    </p>
-    <div class="post-entry">
-        {{ if .Truncated }}
-        {{ .Summary }}
-        <div>
-            <a href="{{ .Permalink }}" class="post-read-more">{{ i18n "readMore" }}...</a>
+    <div class="post-preview__image">
+        <a href="{{ .Permalink }}">
+            {{ if .Params.image_preview }}
+            <img src="{{ .Params.image_preview }}" alt="{{ .Title }}" class="img-title" />
+            {{ end }}
+        </a>
+    </div>
+    <div class="post-preview__content">
+        <a href="{{ .Permalink }}">
+            {{ if .Params.video }}
+            <video loop autoplay muted playsinline class="img-title">
+                <source src="{{ .Params.video }}">
+            </video>
+            {{ end }}
+            <h2 class="post-title">{{ .Title }}</h2>
+            {{ if .Params.subtitle }}
+            <h3 class="post-subtitle">
+                {{ .Params.subtitle }}
+            </h3>
+            {{ end }}
+        </a>
+    
+        <p class="post-meta">
+            {{ partial "post_meta.html" . }}
+        </p>
+        <div class="post-entry">
+            {{ if .Truncated }}
+            {{ .Summary }}
+            <div>
+                <a href="{{ .Permalink }}" class="post-read-more">{{ i18n "readMore" }}...</a>
+            </div>
+            {{ else }}
+            {{ .Content }}
+            {{ end }}
         </div>
-        {{ else }}
-        {{ .Content }}
+    
+        {{ if .Params.tags }}
+        <div class="blog-tags">
+            {{ range .Params.tags }}
+            <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
+            {{ end }}
+        </div>
         {{ end }}
     </div>
-
-    {{ if .Params.tags }}
-    <div class="blog-tags">
-        {{ range .Params.tags }}
-        <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
-        {{ end }}
-    </div>
-    {{ end }}
-
 </article>

@@ -6,6 +6,8 @@
 
 .post-preview {
   border-bottom: 0;
+  display: flex;
+  flex-wrap: wrap;
 
   &:after {
     content: "";
@@ -21,6 +23,36 @@
 
   &:last-child:after {
     display: none;
+  }
+
+  &__image {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 250px;
+    margin: 50px auto;
+
+    a {
+      margin-top: auto;
+      margin-bottom: auto;
+
+      .img-title {
+        margin-bottom: 0;
+      }
+    }
+
+    @media screen and (min-width: 768px) {
+      width: 20%;
+    }
+  }
+
+  &__content {
+    width: 100%;
+
+    @media screen and (min-width: 768px) {
+      width: 80%;
+      padding-left: 10%;
+    }
   }
 
   .post-title {

@@ -12,3 +12,7 @@ theme = "beautifulhugo"
 
 [Author]
   name = "Konrad Jaguszewski"
+
+[Params]
+  logoLarge = "/img/logo.png"
+  isNavEnabled = false

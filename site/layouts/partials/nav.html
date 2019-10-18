@@ -1,3 +1,4 @@
+{{ if .Params.isNavEnabled }}
 <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -61,30 +62,9 @@
         {{ end }}
       </ul>
     </div>
-
-    {{ if isset .Site.Params "logo" }}
-      <div class="avatar-container">
-        <div class="avatar-img-border">
-          <a title="{{ .Site.Title }}" href="{{ "" | absLangURL }}">
-            <img class="avatar-img" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" />
-          </a>
-        </div>
-      </div>
-    {{ else }}
-      <div class="logo">
-          <a title="{{ .Site.Title }}" href="{{ "" | absLangURL }}">
-            <div class="logo__image">
-              <div class="logo__line"></div>
-              <div class="logo__line"></div>
-              <div class="logo__line"></div>
-              <div class="logo__line"></div>
-            </div>
-          </a>
-      </div>
-    {{ end }}
-
   </div>
 </nav>
+{{ end }}
 
 <!-- Search Modal -->
 {{ if isset .Site.Params "gcse" }}
