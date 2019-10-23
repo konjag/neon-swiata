@@ -19,3 +19,5 @@ Jezusowi nie były obce ludzkie trudności i kłopoty. Wiedział o tym, że życ
 Chrystus tak bardzo chciał, abyśmy razem z nim znaleźli się w tym miejscu, że oddał za to Swoje życie. Wskazał nam tym samym drogę do Królestwa Bożego. Dał nam przykazanie miłości, które mówi: _“Kochaj Pana, swego Boga, całym swoim sercem, z całej swojej duszy, każdą swoją myślą i ze wszystkich swych sił, a swego bliźniego jak samego siebie”_.
 
 W świecie pełnym nienawiści, cierpienia i smutku to współczucie, pomoc i poświęcenie dla innych jest tym, co robi różnicę. Całe życie i śmierć Jezusa nauczały o miłości. O miłości Boga do nas, ale też o miłości do siebie nawzajem. To dzięki tej miłości możemy zostać zbawieni. Wystarczy, że uwierzymy w Niego i Jego słowom.
+
+Jezus zmartwychwstał trzy dni po Swojej śmierci, co i nam daje nadzieję na życie wieczne.
