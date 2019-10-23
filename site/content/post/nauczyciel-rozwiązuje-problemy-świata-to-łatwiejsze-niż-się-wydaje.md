@@ -1,7 +1,6 @@
 +++
 author = "Konrad Jaguszewski"
 date = "2019-10-23T22:00:00+00:00"
-draft = true
 image_post = "/uploads/crown.png"
 image_preview = "/uploads/crown.png"
 subtitle = ""
