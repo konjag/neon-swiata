@@ -26,3 +26,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- site/content/post/nauczyciel-rozwiązuje-problemy-świata-to-łatwiejsze-niż-się-wydaje.md
