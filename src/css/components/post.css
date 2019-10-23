@@ -30,7 +30,7 @@
     flex-direction: column;
     width: 100%;
     max-width: 250px;
-    margin: 50px auto;
+    margin: 0 auto 50px auto;
 
     a {
       margin-top: auto;
@@ -43,6 +43,7 @@
 
     @media screen and (min-width: 768px) {
       width: 20%;
+      margin-top: 50px;
     }
   }
 
@@ -75,9 +76,14 @@
   }
 
   .img-title {
-    width: auto;
-    max-width: 100%;
+    width: 100%;
+    max-width: 100px;
     margin-bottom: 30px;
+
+    @media screen and (min-width: 768px) {
+      width: auto;
+      max-width: 100%;
+    }
   }
 
   .post-meta {
@@ -86,12 +92,13 @@
 }
 
 .post-meta {
+  &__text {
+    margin-right: 15px;
+  }
+
   i {
     margin-right: 5px;
-
-    &:not(:first-child) {
-      margin-left: 15px;
-    }
+    display: inline;
   }
 }
 

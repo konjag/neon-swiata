@@ -17,3 +17,4 @@ googleAnalytics = "UA-150801559-1"
 [Params]
   logoLarge = "/img/logo.png"
   isNavEnabled = false
+  selfHosted = true

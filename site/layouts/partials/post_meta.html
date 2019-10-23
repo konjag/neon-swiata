@@ -1,21 +1,21 @@
 <span class="post-meta">
   {{ $lastmodstr := default (i18n "dateFormat") .Site.Params.dateformat | .Lastmod.Format }}
   {{ $datestr := default (i18n "dateFormat") .Site.Params.dateformat | .Date.Format }}
-  <i class="fas fa-calendar"></i>&nbsp;{{ $datestr | i18n "postedOnDate"}}
+  <i class="fas fa-calendar"></i>&nbsp;<span class="post-meta__text">{{ $datestr | i18n "postedOnDate"}}</span>
   {{ if ne $datestr $lastmodstr }}
     &nbsp;{{ $lastmodstr | i18n "lastModified"  }}
   {{ end }}
   {{ if .Site.Params.readingTime }}
-    &nbsp;<i class="fas fa-clock"></i>&nbsp;{{ i18n "readingTime"}}{{ .ReadingTime }}&nbsp;{{ i18n "readTime" }}
+    <i class="fas fa-clock"></i>&nbsp;<span class="post-meta__text">{{ i18n "readingTime"}}{{ .ReadingTime }}&nbsp;{{ i18n "readTime" }}</span>
   {{ end }}
   {{ if .Site.Params.wordCount }}
-    &nbsp;<i class="fas fa-book"></i>&nbsp;{{ .WordCount }}&nbsp;{{ i18n "words" }}
+    <i class="fas fa-book"></i>&nbsp;<span class="post-meta__text">{{ .WordCount }}&nbsp;{{ i18n "words" }}</span>
   {{ end }}
   {{ if not .Site.Params.hideAuthor }}
     {{ if .Params.author }}
-      &nbsp;<i class="fas fa-user"></i>&nbsp;{{ .Params.author | safeHTML }}
+      <i class="fas fa-user"></i>&nbsp;<span class="post-meta__text">{{ .Params.author | safeHTML }}</span>
     {{ else }}
-      &nbsp;<i class="fas fa-user"></i>&nbsp;{{ .Site.Author.name | safeHTML }}
+      <i class="fas fa-user"></i>&nbsp;<span class="post-meta__text">{{ .Site.Author.name | safeHTML }}</span>
     {{ end }}
   {{ end }}
   {{- if .Site.Params.staticman -}}
