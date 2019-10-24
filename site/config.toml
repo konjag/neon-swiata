@@ -10,7 +10,6 @@ title = "Neon Świata"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 theme = "beautifulhugo"
 googleAnalytics = "UA-150801559-1"
-fb_app_id = "1556264057844862"
 
 [permalinks]
   posts = "/post/:slug"
@@ -22,3 +21,4 @@ fb_app_id = "1556264057844862"
   logoLarge = "/img/logo.png"
   isNavEnabled = false
   selfHosted = true
+  fb_app_id = "1556264057844862"
