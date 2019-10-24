@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://neonswiata.pl/"
 languageCode = "pl-pl"
 languageLang = "pl"
 DefaultContentLanguage = "pl"
