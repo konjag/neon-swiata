@@ -11,6 +11,9 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 theme = "beautifulhugo"
 googleAnalytics = "UA-150801559-1"
 
+[permalinks]
+  posts = "/post/:slug"
+
 [Author]
   name = "Konrad Jaguszewski"
 
