@@ -5,6 +5,7 @@ draft = true
 image_post = "/uploads/dove.png"
 image_preview = "/uploads/dove.png"
 share_img = "/uploads/logo-share.jpg"
+slug = "owca-golab-i-swiatlo-co-maja-ze-soba-wspolnego"
 subtitle = ""
 tags = []
 title = "Owca, gołąb i światło: co mają ze sobą wspólnego?"
