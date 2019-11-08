@@ -1,7 +1,6 @@
 +++
 author = "Konrad Jaguszewski"
 date = 2019-11-07T23:00:00Z
-draft = true
 image_post = "/uploads/dove.png"
 image_preview = "/uploads/dove.png"
 share_img = "/uploads/logo-share.jpg"
