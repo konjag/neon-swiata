@@ -6,36 +6,36 @@ fields:
   name: title
   label: title
 - type: text
+  name: subtitle
+  label: subtitle
+- type: text
   name: author
   label: author
-- type: text
-  name: type
-  label: type
+- name: slug
+  type: text
+  config:
+    required: false
+  label: URL slug
 - type: datetime
   name: date
   label: date
-- type: text
-  name: subtitle
-  label: subtitle
 - type: file
   name: image_preview
   label: image_preview
 - type: file
   name: image_post
   label: image_post
-- type: list
-  name: tags
-  label: tags
 - name: share_img
   type: file
   config:
     maxSize: 250
   label: Share image
-- name: slug
-  type: text
-  config:
-    required: false
-  label: URL slug
+- type: text
+  name: type
+  label: type
+- type: list
+  name: tags
+  label: tags
 pages:
 - site/content/post/owca-gołąb-i-światło-co-mają-ze-sobą-wspólnego.md
 - site/content/post/nauczyciel-rozwiązuje-problemy-świata-to-łatwiejsze-niż-się-wydaje.md
