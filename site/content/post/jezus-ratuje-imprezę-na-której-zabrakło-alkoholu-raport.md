@@ -1,7 +1,6 @@
 +++
 author = "Konrad Jaguszewski"
 date = 2019-12-27T23:00:00Z
-draft = true
 image_post = "/uploads/waterpot.jpg"
 image_preview = "/uploads/waterpot.jpg"
 share_img = "/uploads/logo-share.jpg"
