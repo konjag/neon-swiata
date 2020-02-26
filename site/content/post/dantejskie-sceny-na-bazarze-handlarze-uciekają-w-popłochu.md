@@ -1,8 +1,8 @@
 +++
 author = "Konrad Jaguszewski"
 date = 2020-02-25T23:00:00Z
-image_post = "/uploads/whip.png"
-image_preview = "/uploads/whip.png"
+image_post = "/uploads/whip-1.png"
+image_preview = "/uploads/whip-1.png"
 share_img = "/uploads/logo-share.jpg"
 slug = "dantejskie-sceny-na-bazarze-handlarze-uciekaja-w-poplochu"
 subtitle = ""
