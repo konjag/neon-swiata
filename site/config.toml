@@ -16,6 +16,7 @@ googleAnalytics = "UA-150801559-1"
 
 [Author]
   name = "Konrad Jaguszewski"
+  facebook = "NeonSwiata"
 
 [Params]
   logoLarge = "/img/logo.png"
