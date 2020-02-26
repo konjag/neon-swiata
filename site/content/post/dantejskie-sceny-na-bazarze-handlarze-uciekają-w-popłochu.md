@@ -1,7 +1,6 @@
 +++
 author = "Konrad Jaguszewski"
 date = 2020-02-25T23:00:00Z
-draft = true
 image_post = "/uploads/whip.jpg"
 image_preview = "/uploads/whip.jpg"
 share_img = "/uploads/logo-share.jpg"
