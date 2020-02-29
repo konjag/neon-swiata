@@ -1,8 +1,8 @@
 +++
 author = "Konrad Jaguszewski"
 date = 2019-12-27T23:00:00Z
-image_post = "/uploads/waterpot-grid.png"
-image_preview = "/uploads/waterpot-grid.png"
+image_post = "/uploads/waterpot-grid-v2.png"
+image_preview = "/uploads/waterpot-grid-v2.png"
 share_img = "/uploads/logo-share.jpg"
 slug = "jezus-ratuje-impreze-na-ktorej-zabraklo-alkoholu-raport"
 subtitle = ""

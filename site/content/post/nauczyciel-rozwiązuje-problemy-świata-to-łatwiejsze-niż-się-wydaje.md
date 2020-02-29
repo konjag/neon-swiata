@@ -2,8 +2,8 @@
 author = "Konrad Jaguszewski"
 date = 2019-10-23T22:00:00Z
 description = "Zmiany klimatyczne, konflikty zbrojne, bieda, głód i kasjerka w Biedronce, która nie pamięta kodu na kajzerki. Takie są jedne z największych problemów współczesnego świata, które dotykają nas w większym lub mniejszym stopniu. Rozwiązanie wielu z nich jest niemożliwe, chociaż naukowcy twierdzą, że komputer kwantowy może pomóc z kodem na kajzerki."
-image_post = "/uploads/crown-grid-1.png"
-image_preview = "/uploads/crown-grid-1.png"
+image_post = "/uploads/crown-grid-v2.png"
+image_preview = "/uploads/crown-grid-v2.png"
 share_img = "/uploads/logo-share.jpg"
 slug = "nauczyciel-rozwiazuje-problemy-swiata"
 subtitle = ""

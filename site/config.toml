@@ -19,7 +19,7 @@ googleAnalytics = "UA-150801559-1"
   facebook = "NeonSwiata"
 
 [Params]
-  logoLarge = "/img/logo.png"
+  logoLarge = "/img/logo-v2.png"
   isNavEnabled = false
   selfHosted = true
   fb_app_id = "1556264057844862"
