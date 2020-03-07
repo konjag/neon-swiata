@@ -11,7 +11,7 @@ title = "Koronawirus w Polsce! Jak się bronić?"
 type = ""
 
 +++
-W Polsce rośnie liczba zarażonych koronawirusem COVID-19. Z półek sklepowych znika makaron i ryż. Za to każdy dzień obfituje w nowe memy, których bohaterem jest COVID-19. Lęk przed wirusem, mimo że nie odbiera nam poczucia humoru, to szerzy się coraz bardziej, podsycany przez media już od jakiegoś czasu. Pierwszy przypadek koronawirusa w Polsce został oficjalnie ogłoszony w 4 marca, jednak panika wybuchła w naszych głowach na długo przed tym.
+W Polsce rośnie liczba zarażonych koronawirusem COVID-19. Z półek sklepowych znika makaron i ryż. Za to każdy dzień obfituje w nowe memy, których bohaterem jest COVID-19. Lęk przed wirusem, mimo że nie odbiera nam poczucia humoru, to szerzy się coraz bardziej, podsycany przez media już od jakiegoś czasu. Pierwszy przypadek koronawirusa w Polsce został oficjalnie ogłoszony 4. marca, jednak panika wybuchła w naszych głowach na długo przed tym.
 
 \[Obowiązkowe zdjęcie pustych półek w sklepie\]
 
