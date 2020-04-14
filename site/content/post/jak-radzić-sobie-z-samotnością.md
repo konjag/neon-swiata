@@ -15,13 +15,13 @@ Kolejny raz budzisz się i nie ma nikogo przy twoim boku. Bierzesz gorącą kąp
 
 > “Wśród ludzi jest się także samotnym.”
 >
-> \-- <cite>Antoine de Saint-Exupéry, “Mały Książę”</cite>
+> -- <cite>Antoine de Saint-Exupéry, “Mały Książę”</cite>
 
 Nawet będąc w tłumie możemy czuć się samotni. Kontakty, które mamy z innymi są powierzchowne i przypadkowe. Brakuje nam głębokich relacji, w których moglibyśmy czuć się swobodnie i naturalnie, bez konieczności udawania i zakładania masek. Chcemy czuć więź z innymi ludźmi.
 
 > “Pan, Bóg, stwierdził też: Niedobrze jest być człowiekowi samemu. Uczynię mu pomoc pasującą do niego.”
 >
-> \-- <cite>Ks. Rodzaju 2:18</cite>
+> -- <cite>Ks. Rodzaju 2:18</cite>
 
 Relacje z innymi są nam niezbędne. Zależy od nich nasze zdrowie psychiczne, emocjonalne, a często także fizyczne. Bóg, stwarzając człowieka, zdawał sobie sprawę z tego, że samotność będzie miała na niego zgubny wpływ.
 
@@ -33,7 +33,7 @@ Bóg również zna ten ból. Jezus został wzgardzony i opuszczony przez ludzi. 
 
 Niekiedy samotność może wyglądać jak niekończące się cierpienie. Jednak Biblia daje nam nadzieję i pomaga znaleźć wyjście z ciemnego tunelu.
 
-## Relacja z ludźmi
+## Relacje z ludźmi
 
 Nie jesteśmy w stanie sami ukoić w sobie bólu związanego z samotnością, ale możemy pomóc innym. Wokół znajduje się wiele osób, które przeżywają to samo, co my. Tak samo, jak my potrzebują kogoś bliskiego - szczególnie teraz, kiedy jesteśmy w trakcie przymusowej izolacji. Możemy dawać ludziom to, czego nam samym brakuje. Możemy pierwsi zacząć okazywać innym akceptację, zaufanie, wsparcie i miłość - wtedy tego samego doświadczymy we własnym życiu.
 
