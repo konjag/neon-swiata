@@ -15,17 +15,17 @@ Kolejny raz budzisz się i nie ma nikogo przy twoim boku. Bierzesz gorącą kąp
 
 > “Wśród ludzi jest się także samotnym.”
 >
-> -- <cite>Antoine de Saint-Exupéry, “Mały Książę”</cite>
+> \-- <cite>Antoine de Saint-Exupéry, “Mały Książę”</cite>
 
 Nawet będąc w tłumie możemy czuć się samotni. Kontakty, które mamy z innymi są powierzchowne i przypadkowe. Brakuje nam głębokich relacji, w których moglibyśmy czuć się swobodnie i naturalnie, bez konieczności udawania i zakładania masek. Chcemy czuć więź z innymi ludźmi.
 
 > “Pan, Bóg, stwierdził też: Niedobrze jest być człowiekowi samemu. Uczynię mu pomoc pasującą do niego.”
 >
-> -- <cite>Ks. Rodzaju 2:18</cite>
+> \-- <cite>Ks. Rodzaju 2:18</cite>
 
 Relacje z innymi są nam niezbędne. Zależy od nich nasze zdrowie psychiczne, emocjonalne, a często także fizyczne. Bóg, stwarzając człowieka, zdawał sobie sprawę z tego, że samotność będzie miała na niego zgubny wpływ.
 
-[Badania](https://academic.oup.com/ppar/article/27/4/127/4782506) pokazują, że samotność znacząco zwiększa ryzyko przedwczesnej śmierci. Brak więzi społecznych jest porównywalnym, a w wielu przypadkach nawet większym, zagrożeniem dla życia jak palenie 15 papierosów dziennie czy brak aktywności fizycznej. Oddzielenie od innych ludzi może prowadzić do nałogów, depresji i samobójstwa.
+<a href="https://academic.oup.com/ppar/article/27/4/127/4782506" target="_blank">Badania</a> pokazują, że samotność znacząco zwiększa ryzyko przedwczesnej śmierci. Brak więzi społecznych jest porównywalnym, a w wielu przypadkach nawet większym, zagrożeniem dla życia jak palenie 15 papierosów dziennie czy brak aktywności fizycznej. Oddzielenie od innych ludzi może prowadzić do nałogów, depresji i samobójstwa.
 
 Nie zostaliśmy stworzeni, aby być samemu. Nasze ciała nie potrafią sobie z tym poradzić. Pragniemy bliskości z innymi, chcemy być akceptowani. Dlatego odrzucenie sprawia nam ból, a wykluczenie ściska serce.
 
