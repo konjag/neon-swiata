@@ -1,7 +1,6 @@
 +++
 author = "Konrad Jaguszewski"
 date = 2020-04-13T22:00:00Z
-draft = true
 image_post = "/uploads/smiling-mask.png"
 image_preview = "/uploads/smiling-mask.png"
 share_img = "/uploads/smiling-mask-share.jpg"
