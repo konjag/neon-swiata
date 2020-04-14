@@ -7,7 +7,7 @@ share_img = "/uploads/smiling-mask-share.jpg"
 slug = "jak-sobie-radzic-z-samotnoscia"
 subtitle = ""
 tags = []
-title = "Jak radzić sobie z samotnością?"
+title = "Jak sobie radzić z samotnością?"
 type = ""
 
 +++
