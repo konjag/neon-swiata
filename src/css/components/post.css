@@ -26,8 +26,7 @@
   }
 
   &__image {
-    display: flex;
-    flex-direction: column;
+    display: none;
     width: 100%;
     max-width: 250px;
     margin: 0 auto 50px auto;
@@ -42,6 +41,8 @@
     }
 
     @media screen and (min-width: 768px) {
+      display: flex;
+      flex-direction: column;
       width: 20%;
       margin-top: 50px;
     }
@@ -100,8 +101,4 @@
     margin-right: 5px;
     display: inline;
   }
-}
-
-.blog-pager {
-  display: none;
 }

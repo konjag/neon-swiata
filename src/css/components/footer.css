@@ -6,4 +6,8 @@ footer {
       color: var(--color-text-hover);
     }
   }
+
+  .footer-links {
+    margin-bottom: 40px;
+  }
 }

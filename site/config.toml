@@ -17,9 +17,12 @@ googleAnalytics = "UA-150801559-1"
 [Author]
   name = "Konrad Jaguszewski"
   facebook = "NeonSwiata"
+  instagram = "neon.swiata"
 
 [Params]
-  logoLarge = "/img/logo-v3.png"
+  logoLarge = "/img/logo-v5.png"
+  logoSmall = "/img/logo-small.png"
   isNavEnabled = false
   selfHosted = true
   fb_app_id = "1556264057844862"
+  socialShare = true

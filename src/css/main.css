@@ -2,8 +2,11 @@
 
 @import "base/base.css";
 
+@import "components/back-to-home.css";
 @import "components/footer.css";
 @import "components/header.css";
 @import "components/logo.css";
 @import "components/navbar.css";
+@import "components/pager.css";
 @import "components/post.css";
+@import "components/social-share.css";

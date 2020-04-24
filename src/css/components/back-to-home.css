@@ -1,0 +1,29 @@
+.back-to-home {
+  background-color: var(--color-background-secondary);
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  &__content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  &__logo {
+    max-width: 100px;
+  }
+
+  a {
+    color: var(--color-brand-secondary);
+    font-family: var(--font-family-secondary);
+
+    &:hover {
+      color: var(--color-text-hover);
+      text-decoration: none;
+    }
+
+    &:not(:last-child) {
+      margin-right: 50px;
+    }
+  }
+}
