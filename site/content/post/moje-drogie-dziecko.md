@@ -29,7 +29,7 @@ Chciałbym z Tobą porozmawiać. Chciałbym usłyszeć Twój głos. Jest tak wie
 
 Ja będę.
 
-Nigdy Cię nie zostawię i nigdy Cię nie opuszczę. Odnajdziesz mnie, a ja dam Ci wszystko, czego nie dał Ci Twój ziemski ojciec. Pomogę Ci być kochającym tatą dla Twoich dzieci. Uleczę wszystkie Twoje zranienia.
+Nigdy Cię nie zostawię i nigdy Cię nie opuszczę. Odnajdziesz mnie, a ja dam Ci wszystko, czego nie dał Ci Twój ziemski ojciec. Pomogę Ci być kochającym tatą dla Twoich dzieci. Uleczę wszystkie Twoje zranienia. Uwolnię Cię z Twojej przeszłości.
 
 Kiedy się spotkamy, wezmę Cię w ramiona i opowiesz mi o wszystkim. O tych wesołych i tych smutnych chwilach. Zobaczysz w moich oczach dumę, bo nigdy nie zrobiłaś nic złego. Zobaczysz podziw, bo zawsze byłeś odważny. Zobaczysz miłość, bo zawsze Cię kochałem i nigdy nie przestanę.
 
