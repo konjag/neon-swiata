@@ -25,7 +25,7 @@ Kiedy grzeszymy, mówimy: “Boże, znam Twoją wolę, ale nie chcę jej wykonyw
 
 ## Dlaczego grzeszymy?
 
-> “Wśród ludzi jest się także samotnym.”
+> “_Nie rozumiem własnych czynów. Robię nie to, czego chcę, lecz to, czego nienawidzę._”
 >
 > \-- <cite>_List do Rzymian 7:15_</cite>
 
