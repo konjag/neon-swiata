@@ -27,7 +27,7 @@ Kiedy grzeszymy, mówimy: “Boże, znam Twoją wolę, ale nie chcę jej wykonyw
 
 > "Nie rozumiem własnych czynów. Robię nie to, czego chcę, lecz to, czego nienawidzę."
 >
-> \-- <cite>_List do Rzymian 7:15_</cite>
+> -- <cite>List do Rzymian 7:15</cite>
 
 Każdemu zdarza się chybić celu. Nawet zawodowi łucznicy czasem nie trafiają w tarczę. I to nie z własnej woli! Bywa tak, że grzeszymy, mimo że tego nie chcemy i wiemy, że robimy źle. Apostoł Paweł opisuje ten wewnętrzny konflikt, który zachodzi w każdym z nas, w “Liście do Rzymian”. Co sprawia, że tak często zawodzimy Boga i samych siebie?
 
