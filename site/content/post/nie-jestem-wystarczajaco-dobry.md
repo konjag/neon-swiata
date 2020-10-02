@@ -1,8 +1,10 @@
 +++
 author = "Konrad Jaguszewski"
 date = 2020-05-21T22:00:00Z
-image_post = "/uploads/broken-cup.png"
-image_preview = "/uploads/broken-cup.png"
+image_post = "/uploads/broken-cup-1x.png"
+image_post_retina = "/uploads/broken-cup.png"
+image_preview = "/uploads/broken-cup-preview-1x.png"
+image_preview_retina = "/uploads/broken-cup.png"
 share_img = "/uploads/broken-cup-share.jpg"
 slug = "nie-jestem-wystarczajaco-dobry"
 subtitle = ""
