@@ -1,8 +1,10 @@
 +++
 author = "Konrad Jaguszewski"
 date = 2020-04-13T22:00:00Z
-image_post = "/uploads/smiling-mask.png"
-image_preview = "/uploads/smiling-mask.png"
+image_post = "/uploads/smiling-mask-1x.png"
+image_post_retina = "/uploads/smiling-mask.png"
+image_preview = "/uploads/smiling-mask-preview-1x.png"
+image_preview_retina = "/uploads/smiling-mask.png"
 share_img = "/uploads/smiling-mask-share-v2.jpg"
 slug = "jak-sobie-radzic-z-samotnoscia"
 subtitle = ""
