@@ -1,8 +1,10 @@
 +++
 author = "Konrad Jaguszewski"
 date = 2020-08-01T22:00:00Z
-image_post = "/uploads/target.png"
-image_preview = "/uploads/target.png"
+image_post = "/uploads/target-1x.png"
+image_post_retina = "/uploads/target.png"
+image_preview = "/uploads/target-preview-1x.png"
+image_preview_retina = "/uploads/target.png"
 share_img = "/uploads/target-share.jpg"
 slug = "czym-jest-grzech"
 subtitle = ""
