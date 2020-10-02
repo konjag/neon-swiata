@@ -1,8 +1,10 @@
 +++
 author = "Konrad Jaguszewski"
 date = 2020-06-22T22:00:00Z
-image_post = "/uploads/father-child.png"
-image_preview = "/uploads/father-child.png"
+image_post = "/uploads/father-child-1x.png"
+image_post_retina = "/uploads/father-child.png"
+image_preview = "/uploads/father-child-preview-1x.png"
+image_preview_retina = "/uploads/father-child.png"
 share_img = "/uploads/father-child-share.jpg"
 slug = "moje-drogie-dziecko"
 subtitle = ""
