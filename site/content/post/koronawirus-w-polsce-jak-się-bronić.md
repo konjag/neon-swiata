@@ -1,8 +1,10 @@
 +++
 author = "Konrad Jaguszewski"
 date = 2020-03-05T23:00:00Z
-image_post = "/uploads/gas-mask.png"
-image_preview = "/uploads/gas-mask.png"
+image_post = "/uploads/gas-mask-1x.png"
+image_post_retina = "/uploads/gas-mask.png"
+image_preview = "/uploads/gas-mask-preview-1x.png"
+image_preview_retina = "/uploads/gas-mask.png"
 share_img = "/uploads/logo-share-2.jpg"
 slug = "koronawirus-w-polsce-jak-sie-bronic"
 subtitle = ""
