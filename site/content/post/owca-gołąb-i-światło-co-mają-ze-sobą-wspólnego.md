@@ -1,8 +1,10 @@
 +++
 author = "Konrad Jaguszewski"
 date = 2019-11-07T23:00:00Z
-image_post = "/uploads/dove-grid-v2.png"
-image_preview = "/uploads/dove-grid-v2.png"
+image_post = "/uploads/dove-grid-v2-1x.png"
+image_post_retina = "/uploads/dove-grid-v2.png"
+image_preview = "/uploads/dove-grid-v2-preview-1x.png"
+image_preview_retina = "/uploads/dove-grid-v2.png"
 share_img = "/uploads/logo-share-2.jpg"
 slug = "owca-golab-i-swiatlo-co-maja-ze-soba-wspolnego"
 subtitle = ""
