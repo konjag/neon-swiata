@@ -75,11 +75,21 @@
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             {{ if (and (.Site.Params.logoLarge) (ne .Type "post")) }}
               <a href="{{ "" | absLangURL }}">
-                  <img src="{{ .Site.Params.logoLarge }}" alt="{{ .Site.Title }}" class="intro-header__logo" />
+                  <img 
+                    srcset="{{ .Site.Params.logoLarge }} 1x, {{ .Site.Params.logoLargeRetina }} 2x"
+                    src="{{ .Site.Params.logoLarge }}" 
+                    alt="{{ .Site.Title }}" 
+                    class="intro-header__logo" 
+                  />
               </a>
             {{ end }}
             {{ if .Params.image_post }}
-              <img src="{{ .Params.image_post }}" alt="{{ .Title }}" class="intro-header__image" />
+              <img 
+                srcset="{{ .Params.image_post }} 1x, {{ .Params.image_post_retina }} 2x"
+                src="{{ .Params.image_post }}" 
+                alt="{{ .Title }}" 
+                class="intro-header__image" 
+              />
             {{ end }}
             <div class="{{ .Type }}-heading">
               {{ if not .IsHome }}

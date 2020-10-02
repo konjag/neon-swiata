@@ -2,7 +2,12 @@
     <div class="post-preview__image">
         <a href="{{ .Permalink }}">
             {{ if .Params.image_preview }}
-            <img src="{{ .Params.image_preview }}" alt="{{ .Title }}" class="img-title" />
+            <img 
+                srcset="{{ .Params.image_preview }} 1x, {{ .Params.image_preview_retina }} 2x"
+                src="{{ .Params.image_preview }}"
+                alt="{{ .Title }}"
+                class="img-title" 
+            />
             {{ end }}
         </a>
     </div>

@@ -3,6 +3,7 @@ languageCode = "pl-pl"
 languageLang = "pl"
 DefaultContentLanguage = "pl"
 title = "Neon Świata"
+Paginate = 5
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
@@ -20,7 +21,8 @@ googleAnalytics = "UA-150801559-1"
   instagram = "neon.swiata"
 
 [Params]
-  logoLarge = "/img/logo-v5.png"
+  logoLarge = "/img/logo-v5-regular.png"
+  logoLargeRetina = "/img/logo-v5.png"
   logoSmall = "/img/logo-small.png"
   isNavEnabled = false
   selfHosted = true
