@@ -1,6 +1,6 @@
 +++
 author = "Konrad Jaguszewski"
-date = 2020-10-18T22:00:00Z
+date = 2020-10-19T07:00:00Z
 image_post = "/uploads/rescue-1x.png"
 image_post_retina = "/uploads/rescue-2x.png"
 image_preview = "/uploads/rescue-preview-1x.png"
