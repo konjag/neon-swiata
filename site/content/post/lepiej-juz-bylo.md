@@ -36,9 +36,7 @@ Wszystko wskazuje na to, że lepiej nie będzie. Do czasu powtórnego przyjścia
 ## Reakcja
 
 > „Alleluja. Błogosławiony człowiek, który boi się Pana i ma upodobanie w jego przykazaniach. \[...\]
->
 > Nie będzie się bał złej nowiny, jego serce jest stateczne, ufa Panu. 
->
 > Jego serce jest umocnione, nie będzie się bał, aż zobaczy pomstę nad swoimi wrogami.”
 >
 > -- <cite>Psalm 112:1,7-8 (UBG)</cite>
