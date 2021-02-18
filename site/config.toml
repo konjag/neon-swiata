@@ -24,6 +24,7 @@ googleAnalytics = "UA-150801559-1"
   logoLarge = "/img/logo-v5-regular.png"
   logoLargeRetina = "/img/logo-v5.png"
   logoSmall = "/img/logo-small.png"
+  logo = "/img/logo-share-2.jpg"
   isNavEnabled = false
   selfHosted = true
   fb_app_id = "1556264057844862"
