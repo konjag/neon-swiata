@@ -51,6 +51,7 @@ fields:
   name: tags
   label: tags
 pages:
+- site/content/post/5-rzeczy-ktore-musisz-wiedziec-o-bogu.md
 - site/content/post/czym-jest-grzech.md
 - site/content/post/dantejskie-sceny-na-bazarze-handlarze-uciekają-w-popłochu.md
 - site/content/post/jak-radzić-sobie-z-samotnością.md
