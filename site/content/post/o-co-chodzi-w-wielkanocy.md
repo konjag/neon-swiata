@@ -23,13 +23,13 @@ Tymczasem prawdziwe znaczenie Wielkanocy sprowadza się do jednego - śmierci i 
 
 Pogrzeb - ludzie ubrani na czarno, smutna muzyka lecąca w tle i łzy spływające po policzkach. Śmierć raczej nie kojarzy nam się wesoło (w przypadku większości ludzi). A jaka jest Wielkanoc? Radosna i kolorowa. Dlaczego świętujemy męczeńską śmierć Jezusa? Nie chodzi o samą śmierć, ale o to, co ona oznacza i co wydarzyło się później.
 
-Chrystus dobrowolnie ofiarował siebie jako ofiarę za grzech. Rzadko kiedy zdarza się, żeby ktoś umarł za sprawiedliwego. Mimo to Jezus umarł za nas, kiedy byliśmy grzesznikami i daleko od Boga. Bóg oddał swoje życie dla swojego stworzenia. Sam umarł, żebyśmy my mogli żyć i być wolni od grzechu. Wielki Piątek jest dniem wdzięczności i pamięci za Jego ofiarę, która dała nam zbawienie.
+Chrystus dobrowolnie ofiarował siebie jako ofiarę za grzech. Rzadko kiedy zdarza się, żeby ktoś umarł za sprawiedliwego. Mimo to Jezus umarł za nas, kiedy byliśmy grzesznikami i daleko od Boga. Bóg oddał swoje życie dla swojego stworzenia. Sam umarł, żebyśmy my mogli żyć i być wolni od grzechu. Wielki Piątek jest dniem wdzięczności i pamięci za Jego ofiarę, która dała nam [zbawienie](/post/jak-zostac-zbawionym/ "Jak zostać zbawionym?").
 
 ## Zmartwychwstanie
 
 Na ukrzyżowaniu i śmierci Jezusa się nie skończyło. Chrystus trzy dni później zmartwychwstał. Wskrzeszenie Jezusa z martwych oznacza zwycięstwo nad śmiercią i grzechem. Oznacza, że - tak jak mówił - jest Synem Bożym i zgodnie z obietnicą nas też podniesie z martwych, dając życie wieczne.
 
-Pora obchodzenia Wielkanocy też nie jest bez znaczenia. Wiosną zwierzęta i rośliny budzą się do życia. Drzewa wypuszczają liście i pojawiają się kwiaty. W podobny sposób Jezus ma na nas wpływ już teraz. Daje życie, uwalnia od grzechu i przemienia każdego, kto tego pragnie.
+Pora obchodzenia Wielkanocy też nie jest bez znaczenia. Wiosną zwierzęta i rośliny budzą się do życia. Drzewa wypuszczają liście i pojawiają się kwiaty. W podobny sposób Jezus ma na nas wpływ już teraz. Daje życie, uwalnia od grzechu i przemienia każdego, [kto tego pragnie](/post/jak-zostac-zbawionym/ "Jak zostać zbawionym?").
 
 Dlatego Wielkanoc jest dla nas tak radosnym świętem.
 
